@@ -1,0 +1,13 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1700035314
+icon.svg::CompressedTexture2D::7800265979290080143::1700035285::1700035315::1::::<><>::
+README.md::TextFile::-1::1700035285::0::1::::<><>::
+::res://materials/::1700035285
+projection.gdshader::Shader::-1::1700035285::0::1::::<><>::
+::res://scenes/::1700035285
+async_reprojection.tscn::PackedScene::8281984019763709815::1700035285::0::1::::<><>::uid://dhjdeem2goyur::::res://scenes/game.tscn<>res://scripts/async_reprojection.gd<>res://materials/projection.gdshader
+game.tscn::PackedScene::7669352880352393545::1700035285::0::1::::<><>::uid://j11xbmpqg2iv::::res://scenes/player.tscn
+player.tscn::PackedScene::686993201183769505::1700035285::0::1::::<><>::res://scripts/player.gd
+::res://scripts/::1700035285
+async_reprojection.gd::GDScript::-1::1700035285::0::1::::<>Node3D<>::
+player.gd::GDScript::-1::1700035285::0::1::::<>CharacterBody3D<>::
